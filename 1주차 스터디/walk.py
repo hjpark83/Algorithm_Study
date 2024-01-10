@@ -1,4 +1,4 @@
-# Question: BJ 1495 (https://www.acmicpc.net/problem/1495)
+# Question: BJ 1459 (https://www.acmicpc.net/problem/1459)
 # Rank : Silver 3
 # Algorithm : Math, Many conditions
 
@@ -8,7 +8,7 @@ input_val = sys.stdin.readline().split()
 X, Y, W, S = map(int, input_val)
 result=0
 
-if Y>X:
+if Y>X: # 가로<세로
     if 2*W>S:
         if S>W:
             result+=(X*S+(Y-X)*W)
@@ -19,7 +19,7 @@ if Y>X:
                 result+=Y*S
     else:
         result+=((X+Y)*W)
-else:
+else: # 가로>세로
     if 2*W>S:
         if S>W:
             result+=(Y*S+(X-Y)*W)
