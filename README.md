@@ -17,7 +17,7 @@
 |세로읽기|구현, 문자열|🥉Bronze1|[10798 - 세로읽기](https://www.acmicpc.net/problem/10798)|[vertical.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/2%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/vertical.py)|
 |도로와 신호|수학, 구현, 시뮬레이션|🥈Silver4|[2980 - 도로와 신호](https://www.acmicpc.net/problem/2980)|[traffic.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/2%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/traffic.cpp)|
 |토마토|그래프, BFS|🥇Gold5|[7576 - 토마토](https://www.acmicpc.net/problem/7576)||
-|퇴사|DP, Brute Force|🥈Silver3|[14501 - 퇴사](https://www.acmicpc.net/problem/14501)||
+|퇴사|DP, Brute Force|🥈Silver3|[14501 - 퇴사](https://www.acmicpc.net/problem/14501)|[Doby.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/2%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Doby.cpp)|
 |정수 삼각형|DP|🥈Silver1|[1932 - 정수 삼각형](https://www.acmicpc.net/problem/1932)|[intTriangle.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/2%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/intTriangle.cpp)|
 |등수 매기기|Greedy, 정렬|🥈Silver3|[2012 - 등수 매기기](https://www.acmicpc.net/problem/2012)|[Rank.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/2%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Rank.py)|
 
