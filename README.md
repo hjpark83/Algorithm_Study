@@ -25,7 +25,7 @@
 |제목|알고리즘|티어|주소|Code|
 |:------:|:---:|:---:|:---:|:---:|
 |기적의 매매법|구현, 시뮬레이션|🥈Silver5|[20546 - 기적의 매매법](https://www.acmicpc.net/problem/20546)|[Stock.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/3%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Stock.py)|
-|오목|구현, Brute Force|🥈Silver1|[2615 - 오목](https://www.acmicpc.net/problem/2615)||
+|오목|구현, Brute Force|🥈Silver1|[2615 - 오목](https://www.acmicpc.net/problem/2615)|[Omock.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/3%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Omock.py)|
 |숨바꼭질|그래프, BFS|🥈Silver1|[6118 - 숨바꼭질](https://www.acmicpc.net/problem/6118)|[hideonbush.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/3%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/hideonbush.py)|
 |촌수계산|그래프, BFS, DFS|🥈Silver2|[2644 - 촌수계산](https://www.acmicpc.net/problem/2644)|[Family.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/3%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Family.py)|
 |호텔|DP, 배낭문제|🥇Gold5|[1106 - 호텔](https://www.acmicpc.net/problem/1106)||
