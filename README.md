@@ -28,7 +28,7 @@
 |오목|구현, Brute Force|🥈Silver1|[BOJ 2615](https://www.acmicpc.net/problem/2615)|[Omock.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/3%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Omock.py)|
 |숨바꼭질|그래프, BFS|🥈Silver1|[BOJ 6118](https://www.acmicpc.net/problem/6118)|[hideonbush.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/3%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/hideonbush.py)|
 |촌수계산|그래프, BFS, DFS|🥈Silver2|[BOJ 2644](https://www.acmicpc.net/problem/2644)|[Family.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/3%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Family.py)|
-|호텔|DP, 배낭문제|🥇Gold5|[BOJ 1106](https://www.acmicpc.net/problem/1106)||
+|호텔|DP, 배낭문제|🥇Gold5|[BOJ 1106](https://www.acmicpc.net/problem/1106)|[Hotel.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/3%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Hotel.cpp)|
 |스티커|DP|🥈Silver1|[BOJ 9465](https://www.acmicpc.net/problem/9465)|[Sticker.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/3%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Sticker.py)|
 |롤케이크|Greedy|🥈Silver1|[BOJ 16206](https://www.acmicpc.net/problem/16206)|[Rollcake.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/3%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Rollcake.cpp)|
 
