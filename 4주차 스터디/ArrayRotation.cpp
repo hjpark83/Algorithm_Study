@@ -1,3 +1,9 @@
+/*
+# Question: BJ 16926 (https://www.acmicpc.net/problem/16926)
+# Rank : Silver1
+# Algorithm : Implementation
+*/
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
