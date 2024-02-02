@@ -40,5 +40,5 @@
 |뱀과 사다리 게임|그래프, BFS|🥇Gold5|[BOJ 16928](https://www.acmicpc.net/problem/16928)||
 |영역 구하기|그래프, BFS, DFS|🥈Silver1|[BOJ 2583](https://www.acmicpc.net/problem/2583)||
 |LCS|DP, 문자열|🥇Gold5|[BOJ 9251](https://www.acmicpc.net/problem/9251)||
-|점프|DP|🥈Silver1|[BOJ 1890](https://www.acmicpc.net/problem/1890)||
+|점프|DP|🥈Silver1|[BOJ 1890](https://www.acmicpc.net/problem/1890)|[jump.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/4%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/jump.cpp)|
 |호반우 상인의 이상한 품질 계산법|Greedy, 정렬|🥈Silver1|[BOJ 20117](https://www.acmicpc.net/problem/20117)||
