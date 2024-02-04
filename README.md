@@ -35,7 +35,7 @@
 #### 4️⃣ 4주차 Study
 |제목|알고리즘|티어|주소|Code|
 |:------:|:---:|:---:|:---:|:---:|
-|그룹 단어 체커|구현, 문자열|🥈Silver5|[BOJ 1316](https://www.acmicpc.net/problem/1316)||
+|그룹 단어 체커|구현, 문자열|🥈Silver5|[BOJ 1316](https://www.acmicpc.net/problem/1316)|[GroupWord.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/4%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/GroupWord.py)|
 |배열 돌리기1|구현|🥈Silver1|[BOJ 16926](https://www.acmicpc.net/problem/16926)|[ArrayRotation.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/4%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/ArrayRotation.cpp)|
 |뱀과 사다리 게임|그래프, BFS|🥇Gold5|[BOJ 16928](https://www.acmicpc.net/problem/16928)||
 |영역 구하기|그래프, BFS, DFS|🥈Silver1|[BOJ 2583](https://www.acmicpc.net/problem/2583)|[Area.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/4%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Area.py)|
