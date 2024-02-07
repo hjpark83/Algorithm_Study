@@ -42,3 +42,14 @@
 |LCS|DP, 문자열|🥇Gold5|[BOJ 9251](https://www.acmicpc.net/problem/9251)|[LCS.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/4%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/LCS.py) / [LCS.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/4%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/LCS.cpp)|
 |점프|DP|🥈Silver1|[BOJ 1890](https://www.acmicpc.net/problem/1890)|[jump.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/4%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/jump.cpp)|
 |호반우 상인의 이상한 품질 계산법|Greedy, 정렬|🥈Silver1|[BOJ 20117](https://www.acmicpc.net/problem/20117)|[Hobanwoo.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/4%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Hobanwoo.py)|
+
+#### 5️⃣ 5주차 Study
+|제목|알고리즘|티어|주소|Code|
+|:------:|:---:|:---:|:---:|:---:|
+||||||
+||||||
+||||||
+||||||
+||||||
+||||||
+||||||
