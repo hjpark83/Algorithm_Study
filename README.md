@@ -46,10 +46,10 @@
 #### 5️⃣ 5주차 Study
 |제목|알고리즘|티어|주소|Code|
 |:------:|:---:|:---:|:---:|:---:|
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
+|기차가 어둠을 헤치고|구현, 비트마스킹|🥈Silver2|[BOJ 15787](https://www.acmicpc.net/problem/15787)||
+|완전 이진 트리|트리, 재귀|🥈Silver1|[BOJ 9934](https://www.acmicpc.net/problem/9934)||
+|일루미네이션|그래프, BFS, DFS|🥇Gold4|[BOJ 5547](https://www.acmicpc.net/problem/5547)||
+|연구소|구현, 그래프, BFS, Brute Force|🥇Gold4|[BOJ 14502](https://www.acmicpc.net/problem/14502)||
+|동전|DP, 배낭문제|🥇Gold5|[BOJ 9084](https://www.acmicpc.net/problem/9084)||
+|주지수|DP, 누적합|🥈Silver1|[BOJ 15724](https://www.acmicpc.net/problem/15724)||
+|행복 유치원|Greedy, 정렬|🥇Gold5|[BOJ 13164](https://www.acmicpc.net/problem/13164)||
