@@ -36,6 +36,6 @@ int main(void){
                 DP[i][j+Map[i][j]] += DP[i][j];
         }
     }
-    cout << DP[N - 1][N - 1] << '\n';
+    cout << DP[N-1][N-1] << '\n';
     return 0;
 }
