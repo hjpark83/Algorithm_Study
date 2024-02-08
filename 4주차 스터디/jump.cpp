@@ -28,12 +28,16 @@ int main(void){
     DP[0][0] = 1;
     for(int i=0;i<N;i++){
         for(int j=0;j<N;j++){
-            if(Map[i][j] == 0)
+            if(Map[i][j] == 0){
                 continue;
-            if(i+Map[i][j]<N)
+            }
+            if(i+Map[i][j]<N){
                 DP[i+Map[i][j]][j] += DP[i][j];
-            if(j+Map[i][j]<N)
+            
+            }
+            if(j+Map[i][j]<N){
                 DP[i][j+Map[i][j]] += DP[i][j];
+            }
         }
     }
     cout << DP[N-1][N-1] << '\n';
