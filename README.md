@@ -50,6 +50,6 @@
 |완전 이진 트리|트리, 재귀|🥈Silver1|[BOJ 9934](https://www.acmicpc.net/problem/9934)|[CBT.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/5%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/CBT.cpp)|
 |일루미네이션|그래프, BFS, DFS|🥇Gold4|[BOJ 5547](https://www.acmicpc.net/problem/5547)||
 |연구소|구현, 그래프, BFS, Brute Force|🥇Gold4|[BOJ 14502](https://www.acmicpc.net/problem/14502)|[Lab.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/5%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Lab.cpp) / [Lab.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/5%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Lab.py)|
-|동전|DP, 배낭문제|🥇Gold5|[BOJ 9084](https://www.acmicpc.net/problem/9084)||
+|동전|DP, 배낭문제|🥇Gold5|[BOJ 9084](https://www.acmicpc.net/problem/9084)|[Coin.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/5%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Coin.cpp) / [Coin.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/5%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Coin.py)|
 |주지수|DP, 누적합|🥈Silver1|[BOJ 15724](https://www.acmicpc.net/problem/15724)|[JUJISU.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/5%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/JUJISU.cpp)|
 |행복 유치원|Greedy, 정렬|🥇Gold5|[BOJ 13164](https://www.acmicpc.net/problem/13164)|[HappyChild.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/5%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/HappyChild.py)|
