@@ -21,8 +21,8 @@ void MakeTree(int start, int end, int level){
     int mid = (start+end)/2;
     arr[level].push_back(Tree[mid]); // 루트 노드
 
-    MakeTree(start,mid-1,level+1);
-    MakeTree(mid+1,end,level+1);
+    MakeTree(start,mid-1,level+1); // 왼쪽 서브트리
+    MakeTree(mid+1,end,level+1); // 오른쪽 서브트리
 }
 
 int main(void){
