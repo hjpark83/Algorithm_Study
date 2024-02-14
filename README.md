@@ -41,13 +41,13 @@
 |뱀과 사다리 게임|그래프, BFS|🥇Gold5|[BOJ 16928](https://www.acmicpc.net/problem/16928)|[SnakeLadder.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/4%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/SnakeLadder.cpp)|
 |영역 구하기|그래프, BFS, DFS|🥈Silver1|[BOJ 2583](https://www.acmicpc.net/problem/2583)|[Area.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/4%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Area.py)|
 |LCS|DP, 문자열|🥇Gold5|[BOJ 9251](https://www.acmicpc.net/problem/9251)|[LCS.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/4%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/LCS.py) / [LCS.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/4%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/LCS.cpp)|
-|점프|DP|🥈Silver1|[BOJ 1890](https://www.acmicpc.net/problem/1890)|[jump.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/4%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/jump.cpp)|
+|점프|DP|🥈Silver1|[BOJ 1890](https://www.acmicpc.net/problem/1890)|[jump.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/4%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/jump.cpp) / [jump.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/4%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/jump.py)|
 |호반우 상인의 이상한 품질 계산법|Greedy, 정렬|🥈Silver1|[BOJ 20117](https://www.acmicpc.net/problem/20117)|[Hobanwoo.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/4%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Hobanwoo.py)|
 
 #### 5️⃣ 5주차 Study
 |제목|알고리즘|티어|주소|Code|
 |:------:|:---:|:---:|:---:|:---:|
-|기차가 어둠을 헤치고|구현, 비트마스킹|🥈Silver2|[BOJ 15787](https://www.acmicpc.net/problem/15787)||
+|기차가 어둠을 헤치고|구현, 비트마스킹|🥈Silver2|[BOJ 15787](https://www.acmicpc.net/problem/15787)|[Galaxy999.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/5%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Galaxy999.py)|
 |완전 이진 트리|트리, 재귀|🥈Silver1|[BOJ 9934](https://www.acmicpc.net/problem/9934)|[CBT.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/5%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/CBT.cpp)|
 |일루미네이션|그래프, BFS, DFS|🥇Gold4|[BOJ 5547](https://www.acmicpc.net/problem/5547)|[Illumination.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/5%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Illumination.cpp)|
 |연구소|구현, 그래프, BFS, Brute Force|🥇Gold4|[BOJ 14502](https://www.acmicpc.net/problem/14502)|[Lab.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/5%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Lab.cpp) / [Lab.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/5%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Lab.py)|
