@@ -63,7 +63,7 @@ int main(void){
         int cheese = 0;
         for(int i=0; i<N; i++){
             for(int j=0; j<M; j++){
-                if(map[i][j] == 1){ // 바깥쪽 치즈인 경우
+                if(map[i][j] == 1){
                     cheese++;
                     for(int k=0; k<4; k++){
                         int nx = i + dx[k];
