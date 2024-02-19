@@ -58,10 +58,10 @@
 #### 6️⃣ 6주차 Study
 |제목|알고리즘|티어|주소|Code|
 |:------:|:---:|:---:|:---:|:---:|
-|소가 정보섬에 올라온 이유|수학, 구현, 누적합|🥈Silver2|[BOJ 17128](https://acmicpc.net/problem/17128)||
+|소가 정보섬에 올라온 이유|수학, 구현, 누적합|🥈Silver2|[BOJ 17128](https://acmicpc.net/problem/17128)|[CowInfo.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/6%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/CowInfo.py)|
 |단어 맞추기|수학, 구현, 문자열, 조합론|🥈Silver1|[BOJ 9081](https://www.acmicpc.net/problem/9081)||
 |치즈|구현, 그래프, 시뮬레이션, BFS|🥇Gold4|[BOJ 2636](https://www.acmicpc.net/problem/2636)|[Cheese.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/6%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Cheese.cpp)|
 |직사각형 탈출|그래프, BFS, 누적합|🥇Gold4|[BOJ 16973](https://www.acmicpc.net/problem/16973)|[EscapeRec.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/6%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/EscapeRec.cpp)|
-|줄어들지 않아|DP|🥈Silver1|[BOJ 2688](https://www.acmicpc.net/problem/2688)||
+|줄어들지 않아|DP|🥈Silver1|[BOJ 2688](https://www.acmicpc.net/problem/2688)|[NonDecr.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/6%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/NonDecr.cpp)|
 |벼락치기|DP, 배낭문제|🥇Gold5|[BOJ 14728](https://www.acmicpc.net/problem/14728)|[thunderbolt.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/6%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/thunderbolt.cpp)|
 |파일합치기3|자료구조, Greedy, Priority Queue|🥇Gold4|[BOJ 13975](https://www.acmicpc.net/problem/13975)||
