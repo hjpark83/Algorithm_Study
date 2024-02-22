@@ -65,3 +65,14 @@
 |줄어들지 않아|DP|🥈Silver1|[BOJ 2688](https://www.acmicpc.net/problem/2688)|[NonDecr.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/6%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/NonDecr.cpp)|
 |벼락치기|DP, 배낭문제|🥇Gold5|[BOJ 14728](https://www.acmicpc.net/problem/14728)|[thunderbolt.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/6%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/thunderbolt.cpp)|
 |파일합치기3|자료구조, Greedy, Priority Queue|🥇Gold4|[BOJ 13975](https://www.acmicpc.net/problem/13975)|[FileSum3.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/6%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/FileSum3.cpp)|
+
+#### 7️⃣ 7주차 Study
+|제목|알고리즘|티어|주소|Code|
+|:------:|:---:|:---:|:---:|:---:|
+|단축키 지정|구현, 문자열|🥈Silver1|[BOJ 1283](https://www.acmicpc.net/problem/1283)||
+|사다리 타기|구현, 문자열|🥇Gold5|[BOJ 2469](https://www.acmicpc.net/problem/2469)||
+|샘터|자료구조, 그래프, BFS|🥇Gold5|[BOJ 18513](https://www.acmicpc.net/problem/18513)||
+|빙산|구현, 그래프, BFS, DFS|🥇Gold4|[BOJ 2573](https://www.acmicpc.net/problem/18513)||
+|동전2|DP|🥇Gold5|[BOJ 2294](https://www.acmicpc.net/problem/2294)||
+|전깃줄|DP|🥇Gold5|[BOJ 2565](https://www.acmicpc.net/problem/2565)||
+|택배|Greedy, 정렬|🥇Gold1|[BOJ 8980](https://www.acmicpc.net/problem/8980)||
