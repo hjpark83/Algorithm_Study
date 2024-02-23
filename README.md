@@ -42,7 +42,7 @@
 |영역 구하기|그래프, BFS, DFS|🥈Silver1|[BOJ 2583](https://www.acmicpc.net/problem/2583)|[Area.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/4%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Area.py)|[velog](https://velog.io/@hyunjoon0803/Python-%EB%B0%B1%EC%A4%80-2583-%EC%98%81%EC%97%AD-%EA%B5%AC%ED%95%98%EA%B8%B0)|
 |LCS|DP, 문자열|🥇Gold5|[BOJ 9251](https://www.acmicpc.net/problem/9251)|[LCS.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/4%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/LCS.py) / [LCS.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/4%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/LCS.cpp)|[velog](https://velog.io/@hyunjoon0803/CPython-%EB%B0%B1%EC%A4%80-9251-LCS)|
 |점프|DP|🥈Silver1|[BOJ 1890](https://www.acmicpc.net/problem/1890)|[jump.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/4%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/jump.cpp) / [jump.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/4%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/jump.py)|[velog](https://velog.io/@hyunjoon0803/C-%EB%B0%B1%EC%A4%80-1890-%EC%A0%90%ED%94%84)|
-|호반우 상인의 이상한 품질 계산법|Greedy, 정렬|🥈Silver1|[BOJ 20117](https://www.acmicpc.net/problem/20117)|[Hobanwoo.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/4%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Hobanwoo.py)||
+|호반우식 품질계산법|Greedy, 정렬|🥈Silver1|[BOJ 20117](https://www.acmicpc.net/problem/20117)|[Hobanwoo.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/4%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Hobanwoo.py)||
 
 #### 5️⃣ 5주차 Study
 |제목|알고리즘|티어|주소|Code|참고|
