@@ -58,7 +58,7 @@
 #### 6️⃣ 6주차 Study
 |제목|알고리즘|티어|주소|Code|참고|
 |:------:|:---:|:---:|:---:|:---:|:---:|
-|소가 정보섬에 올라온 이유|수학, 구현, 누적합|🥈Silver2|[BJ 17128](https://acmicpc.net/problem/17128)|[CowInfo.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/6%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/CowInfo.py)||
+|소가 정보섬에 올라온이유|수학, 구현, 누적합|🥈Silver2|[BJ 17128](https://acmicpc.net/problem/17128)|[CowInfo.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/6%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/CowInfo.py)||
 |단어 맞추기|수학, 구현, 문자열, 조합론|🥈Silver1|[BJ 9081](https://www.acmicpc.net/problem/9081)|[Word.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/6%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Word.py)||
 |치즈|구현, 그래프, 시뮬레이션, BFS|🥇Gold4|[BJ 2636](https://www.acmicpc.net/problem/2636)|[Cheese.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/6%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Cheese.cpp)|[velog](https://velog.io/@hyunjoon0803/C-%EB%B0%B1%EC%A4%80-2636-%EC%B9%98%EC%A6%88)|
 |직사각형 탈출|그래프, BFS, 누적합|🥇Gold4|[BJ 16973](https://www.acmicpc.net/problem/16973)|[EscapeRec.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/6%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/EscapeRec.cpp)||
