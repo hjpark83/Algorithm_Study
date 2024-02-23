@@ -42,7 +42,7 @@
 |영역 구하기|그래프, BFS, DFS|🥈Silver1|[BJ 2583](https://www.acmicpc.net/problem/2583)|[Area.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/4%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Area.py)|[velog](https://velog.io/@hyunjoon0803/Python-%EB%B0%B1%EC%A4%80-2583-%EC%98%81%EC%97%AD-%EA%B5%AC%ED%95%98%EA%B8%B0)|
 |LCS|DP, 문자열|🥇Gold5|[BJ 9251](https://www.acmicpc.net/problem/9251)|[LCS.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/4%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/LCS.py) / [LCS.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/4%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/LCS.cpp)|[velog](https://velog.io/@hyunjoon0803/CPython-%EB%B0%B1%EC%A4%80-9251-LCS)|
 |점프|DP|🥈Silver1|[BJ 1890](https://www.acmicpc.net/problem/1890)|[jump.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/4%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/jump.cpp) / [jump.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/4%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/jump.py)|[velog](https://velog.io/@hyunjoon0803/C-%EB%B0%B1%EC%A4%80-1890-%EC%A0%90%ED%94%84)|
-|호반우식 품질계산법|Greedy, 정렬|🥈Silver1|[BJ 20117](https://www.acmicpc.net/problem/20117)|[Hobanwoo.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/4%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Hobanwoo.py)||
+|호반우식 이상한 품질 계산법|Greedy, 정렬|🥈Silver1|[BJ 20117](https://www.acmicpc.net/problem/20117)|[HBW.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/4%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Hobanwoo.py)||
 
 #### 5️⃣ 5주차 Study
 |제목|알고리즘|티어|주소|Code|참고|
@@ -64,7 +64,7 @@
 |직사각형 탈출|그래프, BFS, 누적합|🥇Gold4|[BJ 16973](https://www.acmicpc.net/problem/16973)|[EscapeRec.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/6%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/EscapeRec.cpp)||
 |줄어들지 않아|DP|🥈Silver1|[BJ 2688](https://www.acmicpc.net/problem/2688)|[NonDecr.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/6%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/NonDecr.cpp)||
 |벼락치기|DP, 배낭문제|🥇Gold5|[BJ 14728](https://www.acmicpc.net/problem/14728)|[thunderbolt.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/6%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/thunderbolt.cpp)||
-|파일합치기3|자료구조, Greedy, Priority Queue|🥇Gold4|[BJ 13975](https://www.acmicpc.net/problem/13975)|[FileSum3.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/6%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/FileSum3.cpp)||
+|파일합치기3|자료구조, Greedy, Priority Q|🥇Gold4|[BJ 13975](https://www.acmicpc.net/problem/13975)|[FileSum3.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/6%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/FileSum3.cpp)||
 
 #### 7️⃣ 7주차 Study
 |제목|알고리즘|티어|주소|Code|참고|
