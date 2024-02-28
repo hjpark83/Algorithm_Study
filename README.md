@@ -69,7 +69,7 @@
 #### 7️⃣ 7주차 Study
 |제목|알고리즘|티어|주소|Code|참고|
 |:------:|:---:|:---:|:---:|:---:|:---:|
-|단축키 지정|구현, 문자열|🥈Silver1|[BJ 1283](https://www.acmicpc.net/problem/1283)|||
+|단축키 지정|구현, 문자열|🥈Silver1|[BJ 1283](https://www.acmicpc.net/problem/1283)|[KeyboardShortcut.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/7%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/KeyboardShortcut.py)||
 |사다리 타기|구현, 문자열|🥇Gold5|[BJ 2469](https://www.acmicpc.net/problem/2469)|||
 |샘터|자료구조, 그래프, BFS|🥇Gold5|[BJ 18513](https://www.acmicpc.net/problem/18513)|[Fond.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/7%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Fond.py)||
 |빙산|구현, 그래프, BFS, DFS|🥇Gold4|[BJ 2573](https://www.acmicpc.net/problem/18513)|[Iceberg.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/7%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Iceberg.py)|[Velog](https://velog.io/@hyunjoon0803/Python-%EB%B0%B1%EC%A4%80-2573-%EB%B9%99%EC%82%B0)|
