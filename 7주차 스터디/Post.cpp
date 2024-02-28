@@ -10,7 +10,6 @@
 #include <queue>
 #define MAX 10001
 using namespace std;
-typedef long long ll;
 typedef pair<pair<int, int>, int> ppiii;
 
 int N, C, M, ans=0;
