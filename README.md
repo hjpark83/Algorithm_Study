@@ -1,6 +1,5 @@
 # 👨‍💻Algorithm_Study
-
-### ⛄23-24 Winter Vacation
+## ⛄23-24 Winter Vacation
 [모르고리즘](https://www.acmicpc.net/group/19643)
 #### 1️⃣1주차 Study
 
@@ -76,3 +75,11 @@
 |동전2|DP|🥇Gold5|[BJ 2294](https://www.acmicpc.net/problem/2294)|[Coin2.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/7%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Coin2.cpp)||
 |전깃줄|DP|🥇Gold5|[BJ 2565](https://www.acmicpc.net/problem/2565)|[ElectricCord.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/7%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/ElectricCord.cpp)|[velog](https://velog.io/@hyunjoon0803/C-%EB%B0%B1%EC%A4%80-2565-%EC%A0%84%EA%B9%83%EC%A4%84)|
 |택배|Greedy, 정렬|🥇Gold1|[BJ 8980](https://www.acmicpc.net/problem/8980)|[Post.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/7%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Post.cpp)||
+
+## 🌼 24-Spring Semester
+#### 8️⃣ 8주차 Study
+|제목|알고리즘|티어|주소|Code|참고|
+|:------:|:---:|:---:|:---:|:---:|:---:|
+|트럭|구현, 자료구조, 시뮬레이션, 큐|🥈Silver1|[BJ 13335](https://www.acmicpc.net/problem/13335)|||
+|1학년|DP|🥇Gold5|[BJ 5557](https://www.acmicpc.net/problem/5557)|||
+|알고스팟|그래프, Dijkstra, 최단 경로, 0-1 BFS|🥇Gold4|[BJ 1261](https://www.acmicpc.net/problem/1261)|||
