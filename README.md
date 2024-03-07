@@ -81,5 +81,12 @@
 |제목|알고리즘|티어|주소|Code|참고|
 |:------:|:---:|:---:|:---:|:---:|:---:|
 |트럭|구현, 자료구조, 시뮬레이션, 큐|🥈Silver1|[BJ 13335](https://www.acmicpc.net/problem/13335)|[Truck.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/8%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Truck.cpp)|[velog](https://velog.io/@hyunjoon0803/C-%EB%B0%B1%EC%A4%80-13335-%ED%8A%B8%EB%9F%AD)|
-|1학년|DP|🥇Gold5|[BJ 5557](https://www.acmicpc.net/problem/5557)|||
+|1학년|DP|🥇Gold5|[BJ 5557](https://www.acmicpc.net/problem/5557)|[Grade1.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/8%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Grade1.cpp)||
 |알고스팟|그래프, Dijkstra, 최단 경로, 0-1 BFS|🥇Gold4|[BJ 1261](https://www.acmicpc.net/problem/1261)|[AlgoSpot.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/8%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/AlgoSpot.py)||
+
+#### 9️⃣ 9주차 Study
+|제목|알고리즘|티어|주소|Code|참고|
+|:------:|:---:|:---:|:---:|:---:|:---:|
+|4와 7|수학, 구현|🥇Gold5|[BJ 2877](https://www.acmicpc.net/problem/2877)|||
+|진우의 달 여행 (Large)|DP|🥇Gold5|[BJ 17485](https://www.acmicpc.net/problem/17485)|||
+|쿼드 트리|분할 정복, 재귀|🥈Silver1|[BJ 1992](https://www.acmicpc.net/problem/1992)|||
