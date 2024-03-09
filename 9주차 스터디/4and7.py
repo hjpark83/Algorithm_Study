@@ -15,4 +15,5 @@ while K>0:
         result = '7'+result
     else:
         result = '4'+result
+
 print(result)
