@@ -1,7 +1,6 @@
 # Question: BJ 1992 (https://www.acmicpc.net/problem/1992)
 # Rank: Silver1
 # Algorithm: Divide and Conquer, Recursion
-
 import sys
 input = sys.stdin.readline
 

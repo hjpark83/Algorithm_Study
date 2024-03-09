@@ -1,7 +1,6 @@
 # Question: BJ 17485 (https://www.acmicpc.net/problem/17485)
 # Rank: Gold5
 # Algorithm: DP
-
 import sys
 input = sys.stdin.readline
 
