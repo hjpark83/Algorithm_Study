@@ -90,3 +90,10 @@
 |4와 7|수학, 구현|🥇Gold5|[BJ 2877](https://www.acmicpc.net/problem/2877)|[4and7.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/9%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/4and7.py)||
 |진우의 달 여행 (Large)|DP|🥇Gold5|[BJ 17485](https://www.acmicpc.net/problem/17485)|[JinwooMoon.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/9%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/JinwooMoon.py)||
 |쿼드 트리|분할 정복, 재귀|🥈Silver1|[BJ 1992](https://www.acmicpc.net/problem/1992)|[QuadTree.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/9%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/QuadTree.py)|[velog](https://velog.io/@hyunjoon0803/Python-%EB%B0%B1%EC%A4%80-1992-%EC%BF%BC%EB%93%9C%ED%8A%B8%EB%A6%AC)|
+
+#### 🔟 10주차 Study
+|제목|알고리즘|티어|주소|Code|참고|
+|:------:|:---:|:---:|:---:|:---:|:---:|
+|톱니바퀴|구현, 시뮬레이션|🥇Gold5|[BJ 14891](https://www.acmicpc.net/problem/14891)|||
+|선수과목(Prerequisite)|DP, 그래프, 위상정렬, 방향 비순환 그래프|🥇Gold5|[BJ 14567](https://www.acmicpc.net/problem/14567)|||
+|겹치는 건 싫어|Two pointer|🥈Silver1|[BJ 20922](https://www.acmicpc.net/problem/20922)|||
