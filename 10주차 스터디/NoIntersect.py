@@ -15,14 +15,17 @@ max_length = 0
 
 while right < N:
     num = A[right]
-    count[num] = count[num] + 1 if num in count else 1
+    if num in count:
+        count[num] += 1
+    else:
+        count[num] = 1
     
     # 현재 창의 길이가 K를 초과하면 왼쪽 포인터를 이동시킴
     while count[num] > K:
         count[A[left]] -= 1
         left += 1
     
-    max_length = max(max_length, right - left + 1)
+    max_length = max(max_length, right-left+1)
     right += 1
 
 print(max_length)
