@@ -95,5 +95,5 @@
 |제목|알고리즘|티어|주소|Code|참고|
 |:------:|:---:|:---:|:---:|:---:|:---:|
 |톱니바퀴|구현, 시뮬레이션|🥇Gold5|[BJ 14891](https://www.acmicpc.net/problem/14891)|||
-|선수과목(Prerequisite)|DP, 그래프, 위상정렬, 방향 비순환 그래프|🥇Gold5|[BJ 14567](https://www.acmicpc.net/problem/14567)|||
-|겹치는 건 싫어|Two pointer|🥈Silver1|[BJ 20922](https://www.acmicpc.net/problem/20922)|||
+|선수과목(Prerequisite)|DP, 그래프, 위상정렬|🥇Gold5|[BJ 14567](https://www.acmicpc.net/problem/14567)|||
+|겹치는 건 싫어|Two pointer|🥈Silver1|[BJ 20922](https://www.acmicpc.net/problem/20922)|[NoIntersect.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/10%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/NoIntersect.py)||
