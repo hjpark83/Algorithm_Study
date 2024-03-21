@@ -95,7 +95,7 @@
 |제목|알고리즘|티어|주소|Code|참고|
 |:------:|:---:|:---:|:---:|:---:|:---:|
 |톱니바퀴|구현, 시뮬레이션|🥇Gold5|[BJ 14891](https://www.acmicpc.net/problem/14891)|[Gear.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/10%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Gear.py)||
-|선수과목(Prerequisite)|DP, 그래프, 위상정렬|🥇Gold5|[BJ 14567](https://www.acmicpc.net/problem/14567)|[Prerequisite.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/10%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Prerequisite.cpp) / [Prr_topo.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/10%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Prr_topo.cpp)|[github.io](https://hyunjoon83.github.io/baekjoon/2024/03/19/%EB%B0%B1%EC%A4%80-14567-(%EC%84%A0%EC%88%98%EA%B3%BC%EB%AA%A9)/)|
+|선수과목|DP, 그래프, 위상정렬|🥇Gold5|[BJ 14567](https://www.acmicpc.net/problem/14567)|[Prerequisite.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/10%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Prerequisite.cpp) / [Prr_topo.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/10%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Prr_topo.cpp)|[github.io](https://hyunjoon83.github.io/baekjoon/2024/03/19/%EB%B0%B1%EC%A4%80-14567-(%EC%84%A0%EC%88%98%EA%B3%BC%EB%AA%A9)/)|
 |겹치는 건 싫어|Two pointer|🥈Silver1|[BJ 20922](https://www.acmicpc.net/problem/20922)|[NoIntersect.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/10%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/NoIntersect.py)||
 
 #### 1️⃣1️⃣ 11주차 Study
