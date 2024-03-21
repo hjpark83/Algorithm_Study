@@ -80,7 +80,7 @@
 #### 8️⃣ 8주차 Study
 |제목|알고리즘|티어|주소|Code|참고|
 |:------:|:---:|:---:|:---:|:---:|:---:|
-|트럭|구현, 자료구조, 시뮬레이션, 큐|🥈Silver1|[BJ 13335](https://www.acmicpc.net/problem/13335)|[Truck.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/8%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Truck.cpp)|[velog](https://velog.io/@hyunjoon0803/C-%EB%B0%B1%EC%A4%80-13335-%ED%8A%B8%EB%9F%AD)|
+|트럭|구현, 자료구조, 시뮬레이션, 큐|🥈Silver1|[BJ 13335](https://www.acmicpc.net/problem/13335)|[Truck.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/8%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Truck.cpp)|[github.io](https://hyunjoon83.github.io/baekjoon/2024/03/17/%EB%B0%B1%EC%A4%80-13335-(%ED%8A%B8%EB%9F%AD)/)|
 |1학년|DP|🥇Gold5|[BJ 5557](https://www.acmicpc.net/problem/5557)|[Grade1.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/8%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Grade1.cpp)||
 |알고스팟|그래프, Dijkstra, 최단 경로, 0-1 BFS|🥇Gold4|[BJ 1261](https://www.acmicpc.net/problem/1261)|[AlgoSpot.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/8%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/AlgoSpot.py)||
 
@@ -91,9 +91,16 @@
 |진우의 달 여행 (Large)|DP|🥇Gold5|[BJ 17485](https://www.acmicpc.net/problem/17485)|[JinwooMoon.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/9%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/JinwooMoon.py)||
 |쿼드 트리|분할 정복, 재귀|🥈Silver1|[BJ 1992](https://www.acmicpc.net/problem/1992)|[QuadTree.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/9%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/QuadTree.py)|[velog](https://velog.io/@hyunjoon0803/Python-%EB%B0%B1%EC%A4%80-1992-%EC%BF%BC%EB%93%9C%ED%8A%B8%EB%A6%AC)|
 
-#### 🔟 10주차 Study
+#### 1️⃣0️⃣ 10주차 Study
 |제목|알고리즘|티어|주소|Code|참고|
 |:------:|:---:|:---:|:---:|:---:|:---:|
 |톱니바퀴|구현, 시뮬레이션|🥇Gold5|[BJ 14891](https://www.acmicpc.net/problem/14891)|[Gear.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/10%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Gear.py)||
-|선수과목(Prerequisite)|DP, 그래프, 위상정렬|🥇Gold5|[BJ 14567](https://www.acmicpc.net/problem/14567)|[Prerequisite.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/10%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Prerequisite.cpp)||
+|선수과목(Prerequisite)|DP, 그래프, 위상정렬|🥇Gold5|[BJ 14567](https://www.acmicpc.net/problem/14567)|[Prerequisite.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/10%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Prerequisite.cpp)|[github.io](https://hyunjoon83.github.io/baekjoon/2024/03/19/%EB%B0%B1%EC%A4%80-14567-(%EC%84%A0%EC%88%98%EA%B3%BC%EB%AA%A9)/)|
 |겹치는 건 싫어|Two pointer|🥈Silver1|[BJ 20922](https://www.acmicpc.net/problem/20922)|[NoIntersect.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/10%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/NoIntersect.py)||
+
+#### 1️⃣1️⃣ 11주차 Study
+|제목|알고리즘|티어|주소|Code|참고|
+|:------:|:---:|:---:|:---:|:---:|:---:|
+|회전 초밥|Brute Force, Two pointer, Sliding window|🥈Silver1|[BJ 2531](https://www.acmicpc.net/problem/2531)|||
+|수도배관공사|DP, 배낭문제|🥇Gold4|[BJ 2073](https://www.acmicpc.net/problem/2073)|||
+|청소년 상어|구현, 시뮬레이션, 백트래킹|🥇Gold2|[BJ 19236](https://www.acmicpc.net/problem/19236)|||
