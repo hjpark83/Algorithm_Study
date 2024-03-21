@@ -102,5 +102,5 @@
 |제목|알고리즘|티어|주소|Code|참고|
 |:------:|:---:|:---:|:---:|:---:|:---:|
 |회전 초밥|Brute Force, Two pointer, Sliding window|🥈Silver1|[BJ 2531](https://www.acmicpc.net/problem/2531)|||
-|수도배관공사|DP, 배낭문제|🥇Gold4|[BJ 2073](https://www.acmicpc.net/problem/2073)|||
+|수도배관공사|DP, 배낭문제|🥇Gold4|[BJ 2073](https://www.acmicpc.net/problem/2073)|[Pipe.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/11%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/pipe.py)||
 |청소년 상어|구현, 시뮬레이션, 백트래킹|🥇Gold2|[BJ 19236](https://www.acmicpc.net/problem/19236)|||
