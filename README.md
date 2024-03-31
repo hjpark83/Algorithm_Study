@@ -109,5 +109,5 @@
 |제목|알고리즘|티어|주소|Code|참고|
 |:------:|:---:|:---:|:---:|:---:|:---:|
 |테트리스 게임|구현, Brute Force|🥇Gold4|[BJ 4920](https://www.acmicpc.net/problem/4920)|[Tetris.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/12%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Tetris.py)||
-|자두나무|DP|🥇Gold5|[BJ 2240](https://www.acmicpc.net/problem/2240)|||
+|자두나무|DP|🥇Gold5|[BJ 2240](https://www.acmicpc.net/problem/2240)|[Plum.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/12%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Plum.py)||
 |알파벳|Graph, DFS, Backtracking|🥇Gold4|[BJ 1987](https://www.acmicpc.net/problem/1987)|[Alphabet.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/12%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Alphabet.py)||
