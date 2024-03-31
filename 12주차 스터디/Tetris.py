@@ -35,14 +35,14 @@ def Tetris(x, y):
         flag = True
         sum = 0
         for j in range(4):
-            nx = x + Shape[i][j][0] # x좌표
-            ny = y + Shape[i][j][1] # y좌표
+            nx = x + Shape[i][j][0] # 종류, 모양, x좌표
+            ny = y + Shape[i][j][1] # 종류, 모양, y좌표
             if not inRange(nx, ny):
                 flag = False
                 break
             sum += Map[nx][ny]
         
-        if flag:
+        if flag: # 모든 블록이 범위 내에 있을 때
             ans = max(ans, sum)
 
 cnt = 1
