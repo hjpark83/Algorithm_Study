@@ -21,7 +21,7 @@
 |정수 삼각형|DP|🥈Silver1|[BJ 1932](https://www.acmicpc.net/problem/1932)|[intTriangle.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/2%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/intTriangle.cpp)|[velog](https://velog.io/@hyunjoon0803/C-%EB%B0%B1%EC%A4%80-1932-%EC%A0%95%EC%88%98-%EC%82%BC%EA%B0%81%ED%98%95)|
 |등수 매기기|Greedy, 정렬|🥈Silver3|[BJ 2012](https://www.acmicpc.net/problem/2012)|[Rank.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/2%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Rank.py)||
 
-#### 3️⃣3주차 Study
+#### 3️⃣ 3주차 Study
 |제목|알고리즘|티어|주소|Code|참고|
 |:------:|:---:|:---:|:---:|:---:|:---:|
 |기적의 매매법|구현, 시뮬레이션|🥈Silver5|[BJ 20546](https://www.acmicpc.net/problem/20546)|[Stock.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/3%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Stock.py)||
@@ -111,3 +111,10 @@
 |테트리스 게임|구현, Brute Force|🥇Gold4|[BJ 4920](https://www.acmicpc.net/problem/4920)|[Tetris.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/12%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Tetris.py)||
 |자두나무|DP|🥇Gold5|[BJ 2240](https://www.acmicpc.net/problem/2240)|[Plum.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/12%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Plum.py)||
 |알파벳|Graph, DFS, Backtracking|🥇Gold4|[BJ 1987](https://www.acmicpc.net/problem/1987)|[Alphabet.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/12%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Alphabet.py)||
+
+#### 1️⃣3️⃣ 13주차 Study
+|제목|알고리즘|티어|주소|Code|참고|
+|:------:|:---:|:---:|:---:|:---:|:---:|
+|치킨배달|구현, Brute Force, 백트래킹|🥇Gold5|[BJ 15686](https://www.acmicpc.net/problem/15686)|||
+|알약|수학, DP|🥇Gold5|[BJ 4811](https://www.acmicpc.net/problem/4811)|||
+|뱀|구현, 자료구조, 큐|🥇Gold4|[BJ 3190](https://www.acmicpc.net/problem/3190)|||
