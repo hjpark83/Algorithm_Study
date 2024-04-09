@@ -117,4 +117,4 @@
 |:------:|:---:|:---:|:---:|:---:|:---:|
 |치킨배달|구현, Brute Force, 백트래킹|🥇Gold5|[BJ 15686](https://www.acmicpc.net/problem/15686)|||
 |알약|수학, DP|🥇Gold5|[BJ 4811](https://www.acmicpc.net/problem/4811)|||
-|뱀|구현, 자료구조, 큐|🥇Gold4|[BJ 3190](https://www.acmicpc.net/problem/3190)|||
+|뱀|구현, 자료구조, 큐|🥇Gold4|[BJ 3190](https://www.acmicpc.net/problem/3190)|[Dummy.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/13%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Dummy.py)||
