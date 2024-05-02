@@ -122,6 +122,6 @@
 #### 1️⃣4️⃣ 14주차 Study
 |제목|알고리즘|티어|주소|Code|참고|
 |:------:|:---:|:---:|:---:|:---:|:---:|
-|연산자 끼워넣기|Brute Force, 백트래킹|🥈Silver1|[BJ 14888](https://www.acmicpc.net/problem/14888)|||
-|뱀|구현, 자료구조, 큐|🥇Gold4|[BJ 3190](https://www.acmicpc.net/problem/3190)|||
-|퇴사|DP, Brute Force|🥈Silver3|[BJ 14501](https://www.acmicpc.net/problem/14501)|||
+|2048(Easy)|구현, Brute Force, 시뮬레이션, 백트래킹|🥇Gold2|[BJ 12100](https://www.acmicpc.net/problem/12100)|||
+|마법사 상어와 토네이도|구현, 시뮬레이션|🥇Gold3|[BJ 20057](https://www.acmicpc.net/problem/20057)|||
+|낚시왕|구현, 시뮬레이션|🥇Gold1|[BJ 17143](https://www.acmicpc.net/problem/17143)|||
