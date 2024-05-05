@@ -122,6 +122,6 @@
 #### 1️⃣4️⃣ 14주차 Study
 |제목|알고리즘|티어|주소|Code|참고|
 |:------:|:---:|:---:|:---:|:---:|:---:|
-|2048(Easy)|구현, Brute Force, 시뮬레이션, 백트래킹|🥇Gold2|[BJ 12100](https://www.acmicpc.net/problem/12100)|[2048.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/14%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/2048.py)|[github.io](https://hyunjoon83.github.io/baekjoon/2024/05/05/%EB%B0%B1%EC%A4%80-12100-(2048(Easy))/)|
+|2048(Easy)|구현, Brute Force, 백트래킹|🥇Gold2|[BJ 12100](https://www.acmicpc.net/problem/12100)|[2048.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/14%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/2048.py)|[github.io](https://hyunjoon83.github.io/baekjoon/2024/05/05/%EB%B0%B1%EC%A4%80-12100-(2048(Easy))/)|
 |마법사 상어와 토네이도|구현, 시뮬레이션|🥇Gold3|[BJ 20057](https://www.acmicpc.net/problem/20057)|||
 |낚시왕|구현, 시뮬레이션|🥇Gold1|[BJ 17143](https://www.acmicpc.net/problem/17143)|||
