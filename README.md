@@ -115,6 +115,13 @@
 #### 1️⃣3️⃣ 13주차 Study
 |제목|알고리즘|티어|주소|Code|참고|
 |:------:|:---:|:---:|:---:|:---:|:---:|
-|치킨배달|구현, Brute Force, 백트래킹|🥇Gold5|[BJ 15686](https://www.acmicpc.net/problem/15686)|||
+|치킨배달|구현, Brute Force, 백트래킹|🥇Gold5|[BJ 15686](https://www.acmicpc.net/problem/15686)|[ChickenRider.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/13%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/ChickenRider.cpp)||
 |알약|수학, DP|🥇Gold5|[BJ 4811](https://www.acmicpc.net/problem/4811)|||
 |뱀|구현, 자료구조, 큐|🥇Gold4|[BJ 3190](https://www.acmicpc.net/problem/3190)|[Dummy.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/13%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Dummy.py)||
+
+#### 1️⃣4️⃣ 14주차 Study
+|제목|알고리즘|티어|주소|Code|참고|
+|:------:|:---:|:---:|:---:|:---:|:---:|
+|2048(Easy)|구현, Brute Force, 시뮬레이션, 백트래킹|🥇Gold2|[BJ 12100](https://www.acmicpc.net/problem/12100)|||
+|마법사 상어와 토네이도|구현, 시뮬레이션|🥇Gold3|[BJ 20057](https://www.acmicpc.net/problem/20057)|||
+|낚시왕|구현, 시뮬레이션|🥇Gold1|[BJ 17143](https://www.acmicpc.net/problem/17143)|||
