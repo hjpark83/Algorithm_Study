@@ -129,6 +129,6 @@
 #### 1️⃣5️⃣ 15주차 Study
 |제목|알고리즘|티어|주소|Code|참고|
 |:------:|:---:|:---:|:---:|:---:|:---:|
-|인구 이동|구현, 시뮬레이션, Graph, BFS|🥇Gold4|[BJ 16234](https://www.acmicpc.net/problem/16234)|||
-|마법사 상어와 비바라기|구현, 시뮬레이션|🥇Gold5|[BJ 21610](https://www.acmicpc.net/problem/21610)|||
-|스타트와 링크|Brute Force, 백트래킹|🥈Silver1|[BJ 14889](https://www.acmicpc.net/problem/14889)|||
+|인구 이동|구현, 시뮬레이션, Graph, BFS|🥇Gold4|[BJ 16234](https://www.acmicpc.net/problem/16234)|[MovePeople.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/15%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/MovePeople.py)||
+|마법사 상어와 비바라기|구현, 시뮬레이션|🥇Gold5|[BJ 21610](https://www.acmicpc.net/problem/21610)|[MagicShark.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/15%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/MagicShark.cpp)||
+|스타트와 링크|Brute Force, 백트래킹|🥈Silver1|[BJ 14889](https://www.acmicpc.net/problem/14889)|[StartLink.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/15%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/StartLink.py)||
