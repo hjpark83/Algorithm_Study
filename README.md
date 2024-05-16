@@ -132,3 +132,10 @@
 |인구 이동|구현, 시뮬레이션, Graph, BFS|🥇Gold4|[BJ 16234](https://www.acmicpc.net/problem/16234)|[MovePeople.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/15%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/MovePeople.py)||
 |마법사 상어와 비바라기|구현, 시뮬레이션|🥇Gold5|[BJ 21610](https://www.acmicpc.net/problem/21610)|[MagicShark.cpp](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/15%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/MagicShark.cpp)||
 |스타트와 링크|Brute Force, 백트래킹|🥈Silver1|[BJ 14889](https://www.acmicpc.net/problem/14889)|[StartLink.py](https://github.com/Hyunjoon83/Algorithm_Study/blob/main/15%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/StartLink.py)||
+
+#### 1️⃣6️⃣ 16주차 Study
+|제목|알고리즘|티어|주소|Code|참고|
+|:------:|:---:|:---:|:---:|:---:|:---:|
+|감시|구현, Brute force, 시뮬레이션, 백트래킹|🥇Gold4|[BJ 15683](https://www.acmicpc.net/problem/15683)|||
+|구슬 탈출2|구현, Graph, 시뮬레이션, BFS|🥇Gold1|[BJ 13460](https://www.acmicpc.net/problem/13460)|||
+|연산자끼워넣기|Brute force, 백트래킹|🥈Silver1|[BJ 14888](https://www.acmicpc.net/problem/14888)|||
